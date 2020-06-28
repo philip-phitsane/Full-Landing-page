@@ -1,0 +1,1 @@
+In this simple html/css project I created a landing page with a fullscreen image in the background.
